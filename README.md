@@ -25,8 +25,8 @@ Make sure you have **Python 3** installed.
 Then, clone the repository and run the script:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Ashish22Gupta/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
 python tic_tac_toe.py
 
 📝 How to Play
